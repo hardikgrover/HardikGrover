@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Amravati Express app
 - 🌱 I’m currently learning ...Reactjs ,app development
 - 👯 I’m looking to collaborate on ...android studio
