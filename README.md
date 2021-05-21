@@ -10,10 +10,10 @@ I'm Hardik from India . I really enjoy learning languages and frameworks like Re
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikgrover&show_icons=true&theme=radical"height="200"width="500" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikgrover&theme=radical"height="200"widht="400" />
 </a>
 
