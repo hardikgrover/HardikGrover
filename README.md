@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hardik
 #### Design and Development
-![Design and Development](https://image.freepik.com/free-vector/business-people-working-laptop-development_1262-18907.jpg)
+<img src="https://github.com/hardikgrover/HardikGrover/blob/main/githubReadme.jpeg"  height="200" width="1000">
 
 I'm Hardik from India . I really enjoy learning languages and frameworks like React and React Native . 
 
