@@ -62,7 +62,7 @@ I'm Hardik from India . I really enjoy building real life android projects .
 <a href="https://github.com/hardikgrover/Amravati-Express">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=Amravati-Express&theme=radical" />
 </a>
-<a href="https://github.com/hardikgrover/Amazon-Clone-React-">
+<a href="https://challange-d6fb8.web.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=Amazon-Clone-React-&theme=radical" />
 </a>
 
@@ -76,5 +76,5 @@ I'm Hardik from India . I really enjoy building real life android projects .
 
 <div align="center">
 
-### Contact Me
+<!-- ### Contact Me -->
   
