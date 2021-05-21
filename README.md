@@ -2,7 +2,11 @@
 
 <!-- <img src="https://github.com/hardikgrover/HardikGrover/blob/main/githubReadme.jpeg"  height="200" width="1000"> -->
 
-I'm Hardik from India . I really enjoy building real life android projects . 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/hardikgrover)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hardik-grover-981613177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/https://codepen.io/hardikgrover)
+
+<br />
+<br />
+I'm Hardik from India . I really enjoy building real life android projects .
 
 ### Stats
 
@@ -63,4 +67,4 @@ I'm Hardik from India . I really enjoy building real life android projects .
 <div align="center">
 
 ### Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/hardikgrover)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hardik-grover-981613177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/https://codepen.io/hardikgrover)  
+  
