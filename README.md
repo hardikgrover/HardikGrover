@@ -2,7 +2,7 @@
 
 <!-- <img src="https://github.com/hardikgrover/HardikGrover/blob/main/githubReadme.jpeg"  height="200" width="1000"> -->
 
-I'm Hardik from India . I really enjoy learning languages and frameworks like React and React Native . 
+I'm Hardik from India . I really enjoy building real life android projects . 
 
 ### Stats
 
