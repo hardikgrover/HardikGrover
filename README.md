@@ -10,18 +10,17 @@ I'm Hardik from India . I really enjoy learning languages and frameworks like Re
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikgrover&show_icons=true&theme=radical"height="200"width="500" />
-</a>
-<a href="">
+</span>
+<span >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikgrover&theme=radical"height="200"widht="400" />
-</a>
+</span>
 
 
 
 
-### Skills and Exprerience
-*atom
+
 
 
 ### My Projects
@@ -35,11 +34,11 @@ I'm Hardik from India . I really enjoy learning languages and frameworks like Re
 <a href="https://github.com/hardikgrover/Amravati-Express">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=Amravati-Express&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikgrover&theme=radical"height="200"widht="400" />
+<a href="https://github.com/hardikgrover/Amazon-Clone-React-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=Amazon-Clone-React-&theme=radical" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=Amravati-Express&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
