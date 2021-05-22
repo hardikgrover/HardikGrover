@@ -65,6 +65,9 @@ I'm Hardik from India . I really enjoy building real life android projects .
 <a href="https://challange-d6fb8.web.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=Amazon-Clone-React-&theme=radical" />
 </a>
+<a href="https://github.com/hardikgrover/i-review/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=i-review&theme=radical" />
+</a>
 
 <!-- <details> -->
 <!-- <summary> -->
