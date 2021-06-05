@@ -16,7 +16,7 @@
 <br /> -->
 
 
-I'm Hardik from India . I really enjoy building real life android projects .
+I'm Hardik from India . I really enjoy building real life web-applications and android projects .
 
 ### Stats
 
