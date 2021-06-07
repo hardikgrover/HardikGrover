@@ -51,7 +51,7 @@ I'm Hardik from India . I really enjoy building real life web-applications and a
 
 
 
-### My Projects
+<!-- ### My Projects
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikgrover&show_icons=true&theme=radical"height="200"width="500" />
 </a>
@@ -70,7 +70,7 @@ I'm Hardik from India . I really enjoy building real life web-applications and a
 </a>
 <a href="https://whatsapp-mern-edef1.web.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=whatsapp-react&theme=radical" />
-</a>
+</a> -->
 
 <!-- <details> -->
 <!-- <summary> -->
