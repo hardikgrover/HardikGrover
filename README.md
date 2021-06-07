@@ -70,7 +70,7 @@ I'm Hardik from India . I really enjoy building real life web-applications and a
 </a>
 <a href="https://whatsapp-mern-edef1.web.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hardikgrover&repo=whatsapp-react&theme=radical" />
-</a> --> -->
+</a> --> 
 
 <!-- <details> -->
 <!-- <summary> -->
@@ -80,7 +80,7 @@ I'm Hardik from India . I really enjoy building real life web-applications and a
 
 
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- ### Contact Me -->
   
